@@ -1,3 +1,5 @@
+''' remove nth index of string'''
+
 n=int(input("Enter no. of elements in list\n"))
 x=int(input("Which char to remove\n"))
 x=x-1

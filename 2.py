@@ -1,3 +1,5 @@
+'''filter multiple of 5 and print it as sorted list'''
+
 n=int(input("Enter no. of elements in list \n"))
 list1=[]
 list2=[]

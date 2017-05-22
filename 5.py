@@ -1,3 +1,5 @@
+'''print from n to -n"
+
 n=int(input("Enter number: "))
 i=n
 lim=-1

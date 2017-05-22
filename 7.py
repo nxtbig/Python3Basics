@@ -1,3 +1,5 @@
+''' remove first and last character from string in list of string'''
+
 n=int(input("Enter no. of elements in list \n"))
 list1=[]
 list2=[]
